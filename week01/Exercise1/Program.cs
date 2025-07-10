@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         // This is Exercise 1
+        
         Console.Write("What is your Name? ");
         string myname = Console.ReadLine();
 
